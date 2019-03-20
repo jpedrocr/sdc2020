@@ -47,5 +47,11 @@
 # Embedded web-server pid file
 /.web-server-pid
 
+# Homestead
+Homestead.yaml
+after.sh
+aliases
+Vagrantfile
+
 # jpedrocr
 /static/
